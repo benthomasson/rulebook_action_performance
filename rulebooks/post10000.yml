@@ -1,0 +1,16 @@
+---
+- name: Hello
+  hosts: all
+  gather_facts: False
+  sources:
+    - ansible.eda.range:
+        limit: 10000
+  rules:
+    - name: JSON Post
+      condition: true
+      action:
+        json_post:
+          uri: http://localhost:8000/webhook
+          data:
+            message: hi
+...

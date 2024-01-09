@@ -1,1 +1,2 @@
-time ansible-rulebook --rulebook rulebooks/post.yml -A extensions/eda/plugins/rule_action
+#!/bin/bash -ex
+time ansible-rulebook --rulebook rulebooks/post1000.yml -A rule_action

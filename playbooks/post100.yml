@@ -1,0 +1,703 @@
+- name: Post to a uri
+  hosts: localhost
+  tasks:
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
+  - name: Post to a uri
+    ansible.builtin.uri:
+      url: http://localhost:8000/webhook
+      method: POST
+      body_format: json
+      body:
+        data: test
