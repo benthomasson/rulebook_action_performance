@@ -3,4 +3,3 @@ ansible-rulebook -A rule_action --rulebook rulebooks/post1.yml,ansible-rulebook,
 ansible-rulebook -A rule_action --rulebook rulebooks/post10.yml,ansible-rulebook,post10.yml,10,1.0485670566558838,20.4,140656640
 ansible-rulebook -A rule_action --rulebook rulebooks/post100.yml,ansible-rulebook,post100.yml,100,1.1513211727142334,21.4,138641408
 ansible-rulebook -A rule_action --rulebook rulebooks/post1000.yml,ansible-rulebook,post1000.yml,1000,3.0728530883789062,23.1,145588224
-ansible-rulebook -A rule_action --rulebook rulebooks/post10000.yml,ansible-rulebook,post10000.yml,10000,19.819427967071533,24.2,185974784

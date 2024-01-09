@@ -1,0 +1,5 @@
+cmd,name,type,n,time,cpu_percent,memory_usage
+ansible-playbook playbooks/post1.yml,ansible-playbook,post1.yml,1,1.2541491985321045,18.6,53641216
+ansible-playbook playbooks/post10.yml,ansible-playbook,post10.yml,10,2.775639057159424,20.7,52969472
+ansible-playbook playbooks/post100.yml,ansible-playbook,post100.yml,100,20.870234966278076,20.8,56082432
+ansible-playbook playbooks/post1000.yml,ansible-playbook,post1000.yml,1000,203.13905477523804,21.1,69992448

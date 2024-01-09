@@ -1,0 +1,12 @@
+#!/bin/bash -ex
+ulimit -Sn 10000
+#Argtest
+#
+
+now=$(date +"%Y%m%d%H%M%S")
+
+./perf_test.py "results/parallel_rulebook${now}.csv" x x x x --only-header
+for n in 1 10 100 1000
+do
+./perf_test.py "results/parallel_rulebook${now}.csv" "ansible-rulebook -A rule_action --rulebook rulebooks/parallel_post${n}.yml" ansible-rulebook-parallel post${n}.yml ${n} --no-header
+done

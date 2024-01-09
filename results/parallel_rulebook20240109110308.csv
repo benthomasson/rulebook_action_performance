@@ -1,0 +1,5 @@
+cmd,name,type,n,time,cpu_percent,memory_usage
+ansible-rulebook -A rule_action --rulebook rulebooks/parallel_post1.yml,ansible-rulebook-parallel,post1.yml,1,0.9411647319793701,0.0,136544256
+ansible-rulebook -A rule_action --rulebook rulebooks/parallel_post10.yml,ansible-rulebook-parallel,post10.yml,10,0.9388980865478516,17.7,136658944
+ansible-rulebook -A rule_action --rulebook rulebooks/parallel_post100.yml,ansible-rulebook-parallel,post100.yml,100,1.0471432209014893,19.0,140853248
+ansible-rulebook -A rule_action --rulebook rulebooks/parallel_post1000.yml,ansible-rulebook-parallel,post1000.yml,1000,2.0550272464752197,24.1,152338432
